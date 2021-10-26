@@ -1,0 +1,163 @@
+header nav div a{
+color: #FEFFFF;
+text-decoration: none;
+font-size: 1.6em;
+}
+
+header nav div a:hover{
+color: #D0D3D4;
+}
+
+.navbar{
+   padding-left: 4em;
+   padding-right: 4em;
+}
+
+.nav a{
+    color: #D0D3D4;
+}
+
+.nav a:visited{
+    color: #979A9A;
+}
+
+.nav a:hover{
+    color: #FDFEFE;
+}
+
+.nav-item #nav-link{
+   font-size: 1.6em;
+   color: #4BA25C;
+   line-height: 2.2em;
+   padding-left: 0.5em;
+}
+
+.card-img-overlay{
+   margin-top: 17em;
+   margin-left: 60em;
+   margin-right: 10em;
+   text-align: right;
+}
+
+.card-img-overlay h5{
+   font-size: 3em;
+}
+
+.card-img-overlay p{
+   font-size: 1.5em;
+}
+
+.card-img-overlay button{
+   width: 9em;
+   height: 2.5em;
+   font-size: 1.5em;
+   margin-left: 1rem;
+}
+
+section{
+margin-left: 15em;
+margin-right: 15em;
+margin-top: 1em;
+text-align: center;
+}
+
+section h6{
+margin-top:-0.4em;
+font-size: 2.5em;
+}
+
+.card-body{
+text-align: left;
+}
+
+.card-body span{
+font-size: 1em;
+}
+
+.div .span badge bg-primary{
+background-color: #27B7B0;
+}
+
+.card-body h5{
+font-size: 1.7em;
+}
+
+article div{
+background-color: #1C2833;
+color: #ECF0F1;
+}
+
+#card-title{
+font-size: 2.2em;
+}
+
+article div p{
+font-size: 1.15em;
+}
+
+article .card-body button{
+padding: 0.5em;
+padding-top:0.3em;
+font-size: 1.15em;
+}
+
+#destacar{
+font-size: 1.4em;
+}
+
+#destacar a{
+text-decoration-style: dotted;
+color: black;
+}
+
+form{
+width: 60%;
+margin-left: 20%;
+}
+
+#formGroupExampleInput{
+font-size: 1.7em;
+padding-bottom: 3em;
+}
+
+form button{
+width: 100%;
+font-size: 1.7em;
+}
+
+.col-auto button{
+font-size: 1.7em;
+background-color: #8AD15E;
+border-color: #8AD15E;
+}
+
+footer{
+background-color: #1C517C;
+}
+
+footer a{
+color: #FCFDFE;
+font-size: 1.4em;
+text-decoration: none;
+}
+
+footer a:hover{
+color: #B3E9F4;
+}
+
+.container{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin-left: 9em;
+}
+
+.item{
+padding-top: 1.5em;
+padding-bottom: 1.5em;
+padding-right:4em;
+padding-left:4em;
+max-width: 15em;
+text-align: center;
+align-self: center;
+}

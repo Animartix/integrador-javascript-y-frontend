@@ -1,0 +1,34 @@
+body{
+    max-width: 55%;
+    margin-top: 2em;
+    margin-left: 35em;
+}
+.venta{
+    max-width: 55%;
+    text-align: center;
+    margin-left: 6.5rem;
+}
+h1{
+    max-width: 55%;
+    text-align: center; 
+    margin-left: 6rem;
+}
+article{
+    max-width: 75%;
+}
+#total{
+    max-width: 98%;
+    margin-left: 0.5rem;
+    color: #164EA4;  
+    background-color: #C9E5FC;
+    border-color: #C9E5FC; 
+    padding: 1em; 
+}
+form button{
+    width: 100%;
+    font-size: 1.7em;
+    }
+.col-md-6 button{
+    background-color: #8AD15E;
+    border-color: #8AD15E;
+    }
